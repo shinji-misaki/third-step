@@ -19,7 +19,7 @@ int main()
 	double aveE = 0.0;
 	double heS = 0.0;
 	double heE = 0.0;
-	double HENS[20] = { 0 }, HENE[20] = { 0 };
+	double HENS[20] = { 0.0 }, HENE[20] = { 0.0 };
 
 
 	for (i = 0; i < 20; i++) {
